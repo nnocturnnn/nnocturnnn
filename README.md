@@ -1,5 +1,5 @@
 ### Hi there 👋
-! [Статистика Anurag на github] (https://github-readme-stats.vercel.app/api ? Username = nnocturnnn & show_icons = true & theme = радикальный )
+(https://github-readme-stats.vercel.app/api ? Username = nnocturnnn & show_icons = true & theme = радикальный )
 <!--
 **nnocturnnn/nnocturnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
