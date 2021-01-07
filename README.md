@@ -1,5 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning Django
+🔭 Studing in ucode on java branch
 ##  📫 How to reach me:
 
 ## Dino_game
