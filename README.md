@@ -3,7 +3,7 @@
 🔭 Studing in ucode on java branch  
 ##  📫 How to reach me:
 
-## Dino_game
+## [OMAE WA MOU SHINDEIRU NANI](https://github.com/nnocturnnn/T-Rex_JavaFX)
 ![](lol.gif)
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnocturnnn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br/>
