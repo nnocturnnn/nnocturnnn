@@ -3,6 +3,9 @@
 🌱 I’m currently learning Django  
 🔭 Studing in ucode on java branch  
 ##  📫 How to reach me:
+📞 Phone: +380505606821
+📧 Email: mediandrey@gmail.com
+📱 Telegram: @nnnocturny 
 
 ## [OMAE WA MOU SHINDEIRU NANI](https://github.com/nnocturnnn/T-Rex_JavaFX)
 ![](lol.gif)
