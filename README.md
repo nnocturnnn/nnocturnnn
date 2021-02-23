@@ -11,8 +11,8 @@
 ## [OMAE WA MOU SHINDEIRU NANI](https://github.com/nnocturnnn/T-Rex_JavaFX)
 ![](lol.gif)
 ## Stats
-<div style="text-align:center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnocturnnn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</div> <br/>
-<div style="text-align:center">![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nnocturnnn&show_icons=true&theme=radical)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnocturnnn&langs_count=8&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nnocturnnn&show_icons=true&theme=radical)
 
 <!--
 **nnocturnnn/nnocturnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
