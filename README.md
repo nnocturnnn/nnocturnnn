@@ -8,6 +8,9 @@
 📱 Telegram: @nnnocturny  <br/>
 📊 Linkedin: https://www.linkedin.com/in/andrey-sydoruk-b5b411206/
 
+##  🗿 Languages and Tools:
+![](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css)
+
 ## [OMAE WA MOU SHINDEIRU NANI](https://github.com/nnocturnnn/T-Rex_JavaFX)
 ![](lol.gif)
 ## Stats
