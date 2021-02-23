@@ -9,7 +9,7 @@
 📊 Linkedin: https://www.linkedin.com/in/andrey-sydoruk-b5b411206/
 
 ##  🗿 Languages and Tools:
-<a href="https://icons8.com/icon/55503/ruby-programming-language">Ruby Programming Language icon by Icons8</a>
+<img src="https://img.icons8.com/dusk/64/000000/ruby-programming-language.png"/>
 
 ## [OMAE WA MOU SHINDEIRU NANI](https://github.com/nnocturnnn/T-Rex_JavaFX)
 ![](lol.gif)
