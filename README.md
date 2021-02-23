@@ -9,7 +9,7 @@
 📊 Linkedin: https://www.linkedin.com/in/andrey-sydoruk-b5b411206/
 
 ##  🗿 Languages and Tools:
-<img src="https://img.icons8.com/dusk/64/000000/ruby-programming-language.png"/>
+<div style="text-align: center"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/dusk/64/000000/python.png"/><img src="https://img.icons8.com/wired/64/000000/sql.png"/><img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/dusk/64/000000/javascript.png"/><img src="https://img.icons8.com/dusk/64/000000/html-5.png"/></div>
 
 ## [OMAE WA MOU SHINDEIRU NANI](https://github.com/nnocturnnn/T-Rex_JavaFX)
 ![](lol.gif)
