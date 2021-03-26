@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Sydoruk Andrey 
 ## I'm a software engineer from Kyiv
 🌱 I’m currently learning Django  
-🔭 Studing in ucode on java branch  
+🔭 End ucode java branch  
 ##  📫 How to reach me:
 📞 Phone: +380505606821  <br/>
 📧 Email: mediandrey@gmail.com  <br/>
