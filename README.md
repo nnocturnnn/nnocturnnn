@@ -17,8 +17,6 @@
 ## Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nnocturnnn&langs_count=8&show_icons=true&layout=compact&theme=radical)
 ![](https://github-readme-stats.vercel.app/api?username=nnocturnnn&show_icons=true&theme=radical)
-<img alt="ucode" src="stat.png" width ="450" height="300"/>
-
 <!--
 **nnocturnnn/nnocturnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,3 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
