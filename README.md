@@ -17,7 +17,7 @@
 ## Stats
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnocturnnn&langs_count=8&show_icons=true&layout=compact&theme=radical" width ="200" height="200"/>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=nnocturnnn&show_icons=true&theme=radical" width ="200" height="200"/>
-<img alt="ucode" src="stat.png" width ="200" height="400"/>
+<img alt="ucode" src="stat.png" width ="400" height="200"/>
 
 <!--
 **nnocturnnn/nnocturnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
