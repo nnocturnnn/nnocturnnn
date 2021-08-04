@@ -4,7 +4,7 @@
 🔭 Finished ucode java,c branch  <br/>
 🔭 Study in DevOps branch
 ##  📫 How to reach me:
-📞 Phone: +380505606821  <br/>
+📞 Phone: +380933971169  <br/>
 📧 Email: mediandrey@gmail.com  <br/>
 📱 Telegram: @nnnocturny  <br/>
 📊 Linkedin: https://www.linkedin.com/in/andrey-sydoruk-b5b411206/
