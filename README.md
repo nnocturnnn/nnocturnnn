@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Sydoruk Andrey 
 ## I'm a software engineer from Kyiv 
 ## Now located in London/Edinburgh
-🌎 Easy to move/Open to work
+🌎 Easy to move/Open to work <br/>
 🌱 I’m currently learning Frontend tools <br/>
 🔭 Worked in Pump/Codeavors <br/>
 💬 Ask me about Python <br/>
