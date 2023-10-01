@@ -1,13 +1,13 @@
 ### Hi there 👋 , I'm Sydoruk Andrey 
 ## I'm a software engineer from Kyiv 
-## Now located in Montreal
-🌎 Easy to move
+## Now located in London/Edinburgh
+🌎 Easy to move/Open to work
 🌱 I’m currently learning Frontend tools <br/>
-🔭 I’m currently working on Codeavors <br/>
+🔭 Worked in Pump/Codeavors <br/>
 💬 Ask me about Python <br/>
 🏁 Finished Ucode java,c, DevOps branch  <br/>
 ##  📫 How to reach me:
-📞 Phone: +380933971169 | +447379563908 <br/>
+📞 Phone: +447379563908 <br/>
 📧 Email: mediandrey@gmail.com  <br/>
 📱 Telegram: @nnnocturny  <br/>
 📊 Linkedin: https://www.linkedin.com/in/andrey-sydoruk-b5b411206/
