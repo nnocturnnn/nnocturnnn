@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Sydoruk Andrey 
+### Hi there 👋 , I'm Sydoruk Andrii
 ## I'm a software engineer from Kyiv 
 ## Now located in London/Edinburgh
 🌎 Easy to move/Open to work <br/>
