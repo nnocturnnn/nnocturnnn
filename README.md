@@ -10,7 +10,7 @@
 📞 Phone: +447771392637 <br/>
 📧 Email: asydoruka@gmail.com  <br/>
 📱 Telegram: @nnnocturny  <br/>
-📊 Linkedin: [https://www.linkedin.com/in/andrey-sydoruk-b5b411206/](Link)
+📊 Linkedin: [Link](https://www.linkedin.com/in/asydoruka/)
 
 ##  🗿 Languages and Tools:
 <div style="text-align: center">
@@ -24,6 +24,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" width="50" height="50"/>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="50" height="50"/>
   
 </div>
 
