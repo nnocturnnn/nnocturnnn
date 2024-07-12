@@ -30,6 +30,29 @@
 
 ##  🌎 Links:
 
+<div>
+    <a href="https://stackoverflow.com/users/12107506/nnnocturn">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Overflow" style="width:32px;height:32px;vertical-align:middle;margin-right:8px;">
+    </a>
+    <a href="https://www.goodreads.com/user/show/175010549-andrii-sydoruk">
+        <img src="https://img.icons8.com/ios-filled/50/808080/goodreads.png" alt="Goodreads" style="width:32px;height:32px;vertical-align:middle;margin-right:8px;">
+    </a>
+    <a href="https://leetcode.com/nnocturnnn">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" style="width:32px;height:32px;vertical-align:middle;margin-right:8px;">
+    </a>
+    <a href="https://www.codewars.com/users/nnocturnnn">
+        <img src="https://cdn.prod.website-files.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png" alt="Codewars" style="width:28px;height:28px;vertical-align:middle;margin-right:8px;">
+    </a>
+    <a href="https://www.coursera.org/user/e8e44ed474478c74906bf8e94cf21ae5">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png" alt="Coursera" style="width:28px;height:28px;vertical-align:middle;margin-right:8px;">
+    </a>
+    <a href="https://www.datacamp.com/portfolio/tusabas12">
+        <img src="https://play-lh.googleusercontent.com/zIO-uuTBjFigUIswv_h9S0-wVIkno_obwannvzr7NrXbh_MXL_khqV7gEqBly6KXEi4" alt="DataCamp" class="icon" style="width:32px;height:32px;vertical-align:middle;margin-right:8px;">
+    </a>
+    <a href="https://www.behance.net/0bf478c9">
+        <img src="https://img.icons8.com/ios-filled/50/808080/behance.png" alt="Behance" style="width:32px;height:32px;vertical-align:middle;margin-right:8px;">
+    </a>
+</div>
 
 ##  🗿 Languages and Tools:
 <div style="text-align: center">
@@ -51,9 +74,12 @@
 ![](lol.gif)
 ## Stats
 <div style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnocturnnn&langs_count=8&show_icons=true&layout=compact&theme=radical" height=200>
-    <img src="https://github-readme-stats.vercel.app/api?username=nnocturnnn&show_icons=true&theme=radical" height=200>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnocturnnn&langs_count=8&show_icons=true&layout=compact&theme=vision-friendly-dark" height=200>
+    <img src="https://github-readme-stats.vercel.app/api?username=nnocturnnn&show_icons=true&theme=vision-friendly-dark" height=200>
 </div>
+<!-- <img src="stat.png" width="800"> -->
+
+![](https://leetcard.jacoblin.cool/nnocturnnn?ext=heatmap)
 
 <!--
 **nnocturnnn/nnocturnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
