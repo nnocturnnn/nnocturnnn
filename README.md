@@ -7,10 +7,10 @@
 💬 Ask me about Python <br/>
 🏁 Finished Ucode java,c, DevOps branch  <br/>
 ##  📫 How to reach me:
-📞 Phone: +447379563908 <br/>
-📧 Email: mediandrey@gmail.com  <br/>
+📞 Phone: +447771392637 <br/>
+📧 Email: asydoruka@gmail.com  <br/>
 📱 Telegram: @nnnocturny  <br/>
-📊 Linkedin: https://www.linkedin.com/in/andrey-sydoruk-b5b411206/
+📊 Linkedin: [https://www.linkedin.com/in/andrey-sydoruk-b5b411206/](Link)
 
 ##  🗿 Languages and Tools:
 <div style="text-align: center">
