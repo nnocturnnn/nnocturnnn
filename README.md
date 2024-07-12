@@ -32,7 +32,7 @@
 ## Stats
 <div style="display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnocturnnn&langs_count=8&show_icons=true&layout=compact&theme=radical" width="400" height="200">
-    <img src="https://github-readme-stats.vercel.app/api?username=nnocturnnn&show_icons=true&theme=radical" width="500" height="300">
+    <img src="https://github-readme-stats.vercel.app/api?username=nnocturnnn&show_icons=true&theme=radical">
 </div>
 
 <!--
