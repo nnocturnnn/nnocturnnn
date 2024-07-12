@@ -6,11 +6,30 @@
 🔭 Worked in Pump/Codeavors <br/>
 💬 Ask me about Python <br/>
 🏁 Finished Ucode java,c, DevOps branch  <br/>
-##  📫 How to reach me:
-📞 Phone: +447771392637 <br/>
-📧 Email: asydoruka@gmail.com  <br/>
-📱 Telegram: @nnnocturny  <br/>
-📊 Linkedin: [Link](https://www.linkedin.com/in/asydoruka/)
+##  📫 How to reach me: +447771392637
+<div>
+    <a href="mailto:asydoruka@gmail.com">
+        <img src="https://img.icons8.com/ios-filled/50/808080/email.png" alt="Email" style="width:32px;height:32px;vertical-align:middle;margin-right:8px;">
+    </a>
+    <a href="https://t.me/nnnocturny">
+        <img src="https://img.icons8.com/ios-filled/50/808080/telegram-app.png" alt="Telegram" style="width:32px;height:32px;vertical-align:middle;margin-right:8px;">
+    </a>
+    <a href="https://www.linkedin.com/in/asydoruka/">
+        <img src="https://img.icons8.com/ios-filled/50/808080/linkedin.png" alt="LinkedIn" style="width:32px;height:32px;vertical-align:middle;margin-right:8px;">
+    </a>
+    <a href="https://www.instagram.com/technnoc">
+        <img src="https://img.icons8.com/ios-filled/50/808080/instagram.png" alt="Instagram" style="width:32px;height:32px;vertical-align:middle;margin-right:8px;" class="icon">
+    </a>
+    <a href="https://twitter.com/nnnocturny">
+        <img src="https://img.icons8.com/ios-filled/50/808080/twitter.png" alt="Twitter" style="width:32px;height:32px;vertical-align:middle;margin-right:8px;" class="icon">
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100004794157598">
+        <img src="https://img.icons8.com/ios-filled/50/808080/facebook.png" alt="Facebook" style="width:32px;height:32px;vertical-align:middle;margin-right:8px;" class="icon">
+    </a>
+</div>
+
+##  🌎 Links:
+
 
 ##  🗿 Languages and Tools:
 <div style="text-align: center">
