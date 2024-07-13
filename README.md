@@ -79,7 +79,8 @@
 </div>
 <!-- <img src="stat.png" width="800"> -->
 
-![](https://leetcard.jacoblin.cool/nnocturnnn?ext=heatmap)
+<img src="https://leetcard.jacoblin.cool/nnocturnnn?ext=heatmap" width=800>
+<img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=nnocturnnn" width=800>
 
 <!--
 **nnocturnnn/nnocturnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
