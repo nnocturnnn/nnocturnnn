@@ -1,12 +1,23 @@
-### Hi there 👋 , I'm Sydoruk Andrii
-## I'm a software engineer from Kyiv 
-## Now located in London/Edinburgh
+<h3 align="center"> Hi there 👋 , I'm Sydoruk Andrii <h3>
+
+<p align="center">I am a detail-oriented Python developer with Back-end experience in Cloud solutions and DevOps,
+complemented by a background in Front-end development.
+With experience in corporate environments, companies, startups, and freelance work.
+Armed with strong Python experience, I am deeply committed to principles in good quality code
+writing, innovating, and continued skill improvement toward the development of cutting-edge
+software products and scalable systems.</p>
+
+<h2 align="center"> I'm a software engineer from Kyiv <br>  Now located in London/Edinburgh  </h2>
+
+<p align="center">
 🌎 Easy to move/Open to work <br/>
 🌱 I’m currently learning Frontend tools <br/>
 🔭 Worked in Pump/Codeavors <br/>
 💬 Ask me about Python <br/>
 🏁 Finished Ucode java,c, DevOps branch  <br/>
-##  📫 How to reach me: +447771392637
+</p>
+
+<h2 align="center"> 📫 How to reach me 📫 <br> +447771392637 </h2>
 <div align="center">
     <a href="mailto:asydoruka@gmail.com">
         <img src="https://img.icons8.com/ios-filled/50/808080/email.png" alt="Email" style="width:50px;height:50px;vertical-align:middle;margin-right:8px;">
@@ -28,7 +39,7 @@
     </a>
 </div>
 
-##  🌎 Links:
+<h2 align="center"> 🌎 Links 🌎 </h2>
 
 <div align="center">
     <a href="https://stackoverflow.com/users/12107506/nnnocturn">
@@ -76,6 +87,9 @@
     <img src="lol.gif">
 </div>
 <h2 align="center">📈 Stats 📈</h2>
+<div align="center">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width=800>
+</div>
 <div align="center" style="display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnocturnnn&langs_count=8&show_icons=true&layout=compact&theme=vision-friendly-dark" height=200>
     <img src="https://github-readme-stats.vercel.app/api?username=nnocturnnn&show_icons=true&theme=vision-friendly-dark" height=200>
