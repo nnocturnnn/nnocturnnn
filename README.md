@@ -1,3 +1,5 @@
+New line
+
 <h3 align="center"> Hi there 👋 , I'm Sydoruk Andrii <h3>
 
 <p align="center">I am a detail-oriented Python developer with Back-end experience in Cloud solutions and DevOps,
