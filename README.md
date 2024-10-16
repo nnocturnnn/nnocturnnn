@@ -12,7 +12,7 @@ software products and scalable systems.</p>
 <p align="center">
 🌎 Easy to move/Open to work <br/>
 🌱 I’m currently learning Frontend tools <br/>
-🔭 Worked in Pump/Codeavors <br/>
+🔭 Worked in Pump/Codeavors/SmartUI/BJS-Boxworks <br/>
 💬 Ask me about Python <br/>
 🏁 Finished Ucode java,c, DevOps branch  <br/>
 </p>
